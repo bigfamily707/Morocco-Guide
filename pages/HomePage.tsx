@@ -229,7 +229,7 @@ const HomePage: React.FC = () => {
              <NavIcon 
                label="Guide Info" 
                onClick={() => navigate('/safety')} 
-               img="https://images.unsplash.com/photo-1544977421-4d1421691942?auto=format&fit=crop&q=80&w=200"
+               img="https://images.unsplash.com/photo-1501612780327-45045538702b?auto=format&fit=crop&q=80&w=200"
              />
           </div>
         </div>
