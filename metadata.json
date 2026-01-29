@@ -1,0 +1,9 @@
+{
+  "name": "Morocco Guide",
+  "description": "Your intelligent, culturally-aware companion for exploring Morocco. From dreaming of the Sahara to navigating the medina, we guide your journey with local insights and AI-powered planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

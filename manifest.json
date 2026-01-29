@@ -1,0 +1,21 @@
+{
+  "short_name": "Morocco Guide",
+  "name": "Morocco Guide: AI Travel Companion",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5770/5770956.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5770/5770956.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#9a3412",
+  "background_color": "#fafaf9",
+  "orientation": "portrait"
+}
